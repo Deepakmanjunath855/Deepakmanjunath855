@@ -5,12 +5,16 @@
 
 - 🌱 I’m currently learning **django,flask**
 
-- 💬 Ask me about **python, machine learning, c++,computer vision**
+- 👨‍💻 All of my projects are available at [https://github.com/Deepakmanjunath855?tab=repositories](https://github.com/Deepakmanjunath855?tab=repositories)
+
+- 💬 Ask me about **python, machine learning, c++,computer vision,cloud,electronics**
+
+- 📫 How to reach me **deepakmanjunath01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deepak manjunath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak manjunath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepakmanjunath3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepakmanjunath3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-manjunath-003b591a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-manjunath-003b591a2/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/deepakmanjunath3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/deepakmanjunath3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
